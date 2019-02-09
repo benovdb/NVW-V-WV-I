@@ -1,0 +1,17 @@
+body {
+	font-family: helvetica neue;
+	font-size: 17px;
+	font-weight: normal;
+	line-height: 18px;
+	color: black;
+	margin: 0px;
+	height: 100%;
+	padding: 0px;
+	text-rendering: optimizelegibility;
+	}
+
+	
+a {
+text-decoration: none;
+color: black;
+}
